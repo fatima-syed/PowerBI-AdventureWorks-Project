@@ -6,8 +6,8 @@ This project consists of an intuitive report created in Power BI that analyzes m
 ## Folder Structure
 The project is organized into the following folders:
 
-AdventureWorks Raw Data: Contains CSV files used for data analysis in the Power BI report.
-AdventureWorks Images: Contains images used within the report.
+- AdventureWorks Raw Data: Contains CSV files used for data analysis in the Power BI report.
+- AdventureWorks Images: Contains images used within the report.
 
 ## Report Pages
 - Executive Dashboard: Provides a high-level overview of key metrics and insights for stakeholders.

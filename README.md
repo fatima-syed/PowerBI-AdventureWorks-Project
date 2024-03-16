@@ -1,7 +1,7 @@
 # PowerBI-AdventureWorks-Project
 
 ## Overview
-This project consists of an intuitive report created in Power BI that analyzes multifarious metrics for a company named AdventureWorks. The report is divided into multiple pages, including an executive dashboard, customer details, product details, map visualization, and custom category tooltip.
+This project consists of an intuitive report created in Power BI that analyzes multifarious metrics for a company named AdventureWorks. The report is divided into multiple pages, including an executive dashboard, customer details, product details, map visualization, key influencers, and custom category tooltip.
 
 ## Folder Structure
 The project is organized into the following folders:
